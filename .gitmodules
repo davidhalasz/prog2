@@ -1,0 +1,3 @@
+[submodule "bead/bead/bhax"]
+	path = bead/bead/bhax
+	url = https://github.com/davidhalasz/prog2
